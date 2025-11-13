@@ -241,7 +241,7 @@
 
     /* ===== SEND MESSAGE BUTTON ===== */
     .submit-btn {
-      background: linear-gradient(45deg, #ffffff, #e0e0e0);
+      background: solid#3ac019;
       color: #000;
       border: none;
       border-radius: 50px;
