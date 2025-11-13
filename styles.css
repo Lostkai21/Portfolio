@@ -241,9 +241,9 @@
 
     /* ===== SEND MESSAGE BUTTON ===== */
     .submit-btn {
-      background: solid#3ac019;
-      color: #ffffff;
-      border: solid#3ac019 1px;
+      background: linear-gradient(45deg, #ffffff, #e0e0e0);
+      color: #000;
+      border: none;
       border-radius: 50px;
       padding: 12px 30px;
       font-weight: 600;
@@ -252,7 +252,8 @@
     }
 
     .submit-btn:hover {
-      background: solid #c4c2c2;
+      background: solid#4be225;
+      color: rgb(224, 22, 22);
       transform: translateY(-2px);
       box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
     }
